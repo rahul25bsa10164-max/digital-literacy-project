@@ -40,4 +40,4 @@ I found it interesting how icons can simplify complex topics. The most difficult
 
 
 
-<img width="800" height="2000" alt="Yellow Illustrative Digital Education For Children Infographic" src="https://github.com/user-attachments/assets/68fec800-0562-44de-b735-4d164b9fa624" />" />
+<img width="800" height="2000" alt="Infographic" src="https://github.com/rahul25bsa10164-max/digital-literacy-project/blob/main/task-1-presentation/infographic.png?raw=true" />" />
