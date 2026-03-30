@@ -11,7 +11,7 @@ This repository contains a complete record of my work for the Digital Literacy c
 
 ### Module 1: Professional Presentations
 * **Summary:** Created a digital presentation on the core pillars of digital literacy, focusing on visual communication and information hierarchy.
-* **Link to Presentation:** [Click here to view my Canva/Prezi Presentation](https://www.canva.com/design/DAHFCfqD7q8/zV_ax7urfDyWc6lOYBxyEw/edit?utm_content=DAHFCfqD7q8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton )
+* **Link to Presentation:** [Click here to view my Canva/Prezi Presentation](https://canva.link/caipu294lvgfvoh )
 
 ### Module 2: Professional Portfolio
 * **Summary:** Developed a professional online identity by setting up and optimizing LinkedIn and GitHub profiles to showcase career readiness.
